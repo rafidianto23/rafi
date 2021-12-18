@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+matplotlib
+sklearn
+seaborn
+tensorflow
+keras
+streamlit
+xlrd
